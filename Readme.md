@@ -16,4 +16,5 @@ The following example shows how to specify header and footer content of an expo
 
 ## More Examples
 
-- [Dashboard for WinForms - How to add custom information to the exported dashboard](https://supportcenter.devexpress.com/ticket/details/t466558)
+- [Dashboard for Web Forms - How to add custom information to the exported Excel document](https://github.com/DevExpress-Examples/web-dashboard-how-to-add-custom-information-to-the-exported-excel-document-t504794)
+- [Dashboard for WinForms - How to add custom information to the exported dashboard](https://github.com/DevExpress-Examples/winforms-dashboard-how-to-add-custom-information-to-the-exported-dashboard-t466558)

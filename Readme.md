@@ -6,7 +6,9 @@
 
 # Dashboard for Web Forms - How to add custom information to the exported dashboard
 
-The following example shows how to specify header and footer content of an exported dashboard using the <a href="https://documentation.devexpress.com/Dashboard/DevExpressDashboardWebASPxDashboard_CustomExporttopic.aspx">CustomExport</a> event. This event provides access to the underlying <a href="https://documentation.devexpress.com/#XtraReports/clsDevExpressXtraReportsUIXtraReporttopic">report</a> of the exported document.
+The following example shows how to specify header and footer content of an exported dashboard using the [CustomExport](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWeb.ASPxDashboard.CustomExport) event. This event provides access to the underlying [report](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.UI.XtraReport) of the exported document.
+
+![|](exported-dashboard.png)
 
 ## Files to Look At
 

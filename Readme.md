@@ -18,7 +18,7 @@ The following example shows how to specify header and footer content of an expo
 
 ## Documentation
 
-- [Printing and Exporting](https://docs.devexpress.com/Dashboard/15181/common-features/printing-and-exporting)
+- [Exporting in the Web Dashboard](https://docs.devexpress.com/Dashboard/116694/web-dashboard/create-dashboards-on-the-web/exporting?p=netframework)
 
 ## More Examples
 

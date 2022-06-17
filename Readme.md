@@ -3,22 +3,21 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T466585)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-
-# Dashboard for Web Forms - How to add custom information to the exported dashboard
-
-The following example shows how to specify header and footer content of an exported dashboard. For this, handle the [ASPxDashboard.CustomExport](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWeb.ASPxDashboard.CustomExport) event. This event provides access to the underlying [report](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.UI.XtraReport) of the exported document.
-
-![|](exported-dashboard.png)
-
-## Files to Look At
+<!-- default file list -->
+*Files to look at*:
 
 * [Default.aspx](./CS/WebDashboard_CustomExport/Default.aspx) (VB: [Default.aspx](./VB/WebDashboard_CustomExport/Default.aspx))
 * [Default.aspx.cs](./CS/WebDashboard_CustomExport/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebDashboard_CustomExport/Default.aspx.vb))
+<!-- default file list end -->
+
+# Dashboard for Web Forms - How to add custom information to the exported dashboard
+
+The following example shows how to specify header and footer content of an exported dashboard using the <a href="https://documentation.devexpress.com/Dashboard/DevExpressDashboardWebASPxDashboard_CustomExporttopic.aspx">CustomExport</a> event. This event provides access to the underlying <a href="https://documentation.devexpress.com/#XtraReports/clsDevExpressXtraReportsUIXtraReporttopic">report</a> of the exported document.
 
 
 ## Documentation
 
-- [Exporting in the Web Dashboard](https://docs.devexpress.com/Dashboard/116694/web-dashboard/create-dashboards-on-the-web/exporting?p=netframework)
+- [Printing and Exporting](https://docs.devexpress.com/Dashboard/15181/common-features/printing-and-exporting)
 
 ## More Examples
 
